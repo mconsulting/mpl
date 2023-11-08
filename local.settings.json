@@ -1,0 +1,7 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=dccontacts;AccountKey=qZ1LwTKPSkECeyND6nGIMmZNPktHOLgMfYWBrMvyjeEbvo9EnWAaZscD8uxZZ5Fawh8o+VkEB7OhlTtW5hws6A==;BlobEndpoint=https://dccontacts.blob.core.windows.net/;TableEndpoint=https://dccontacts.table.core.windows.net/;QueueEndpoint=https://dccontacts.queue.core.windows.net/;FileEndpoint=https://dccontacts.file.core.windows.net/",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=dccontacts;AccountKey=qZ1LwTKPSkECeyND6nGIMmZNPktHOLgMfYWBrMvyjeEbvo9EnWAaZscD8uxZZ5Fawh8o+VkEB7OhlTtW5hws6A==;BlobEndpoint=https://dccontacts.blob.core.windows.net/;TableEndpoint=https://dccontacts.table.core.windows.net/;QueueEndpoint=https://dccontacts.queue.core.windows.net/;FileEndpoint=https://dccontacts.file.core.windows.net/"
+  }
+}

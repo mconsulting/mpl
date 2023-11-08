@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Oklahoma.core.Model.OCCModel">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAgQAAAAKBAAAAAAAAAAEQAAABASACAAAAAABAA=</HashCode>
+      <FileName>Entities\OCCModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oklahoma.core.Model.WebPage">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAAAAABAAACAAAACAAAAAAQCAAAAgIACAAA=</HashCode>
+      <FileName>Entities\WebPage.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Documents" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Oklahoma.core.Model.Document">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Oklahoma.core.Model.Document.DocumentStatus">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\Document.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CCQiEIgwAGYgjgQIIYDJIBYJRgAEIBQCAAAMAoBAAgA=</HashCode>
+      <FileName>Entities\Document.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="ContactLocations" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Oklahoma.core.Model.ContactLocation">
+    <Position X="9.25" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQkAEAIgAAgAAgoAAEAAAAAAAUCBAAAAAAABAA=</HashCode>
+      <FileName>Entities\ContactLocation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oklahoma.core.Services.HandleGeocodeResponse">
+    <Position X="3" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAAAAAAAQAQAgAAAAAAAACAgAAAAAAAEA=</HashCode>
+      <FileName>Services\GeocodeService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
