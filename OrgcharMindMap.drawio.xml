@@ -642,10 +642,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wYNYb46Dv4Zj7rqkelO2-1" value="Mindmap" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
-          <mxGeometry x="230" y="400" width="500" height="376" as="geometry" />
+          <mxGeometry x="280" y="310" width="500" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="wYNYb46Dv4Zj7rqkelO2-9" value="Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="wYNYb46Dv4Zj7rqkelO2-1" vertex="1" collapsed="1">
-          <mxGeometry x="10" y="190" width="210" height="210" as="geometry" />
+        <mxCell id="wYNYb46Dv4Zj7rqkelO2-9" value="Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="wYNYb46Dv4Zj7rqkelO2-1" vertex="1">
+          <mxGeometry x="10" y="200" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wYNYb46Dv4Zj7rqkelO2-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="wYNYb46Dv4Zj7rqkelO2-1" source="wYNYb46Dv4Zj7rqkelO2-6" target="wYNYb46Dv4Zj7rqkelO2-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -670,6 +670,15 @@
         </mxCell>
         <mxCell id="wYNYb46Dv4Zj7rqkelO2-10" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="wYNYb46Dv4Zj7rqkelO2-1" vertex="1">
           <mxGeometry x="20" y="80" width="72" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4w9SHajHIryf-UkbsiOD-40" value="Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="wYNYb46Dv4Zj7rqkelO2-1">
+          <mxGeometry x="20" y="210" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4w9SHajHIryf-UkbsiOD-41" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="wYNYb46Dv4Zj7rqkelO2-1" source="wYNYb46Dv4Zj7rqkelO2-6" target="4w9SHajHIryf-UkbsiOD-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="80" as="sourcePoint" />
+            <mxPoint x="220" y="305" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wYNYb46Dv4Zj7rqkelO2-11" value="Mindmap" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
           <mxGeometry x="215" y="160" width="420" height="126" as="geometry" />
